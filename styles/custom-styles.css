@@ -1,0 +1,98 @@
+/* HOME CSS */
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.subheading {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.custom-header {
+    margin-bottom: 0px !important;
+}
+
+.post-title {
+    text-align: center;
+}
+
+.post-subtitle {
+    color: #717171;
+    text-align: center;
+}
+
+.tableau-link {
+    margin-bottom: 2rem;
+}
+
+/* ABOUT / RESUME CSS */
+
+.about-bg {
+    background-position: 2px 2px !important;
+}
+
+.about-headers {
+    text-align: center;
+}
+
+.about-img {
+    height: 400px;
+}
+
+.experience-header {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.experience-tickers {
+    font-weight: initial;
+    color: #717171;
+}
+
+/* Tableau CSS */
+
+.t-nav {
+    background-color: #e1e1e1;
+    height: 3rem;
+    line-height: 3rem;
+    width: auto;
+    text-align: right;
+}
+
+.t-nav-links {
+    margin: 1rem;
+}
+
+.t-header {
+    width: 50%;
+    height: 0;
+    padding: 0 0 50%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.t-footer {
+    text-align: center;
+}
+
+.t-graph-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.t-graph {
+    text-align: center;
+}
+
+.t-graph-caption {
+    background-color: #e1e1e1;
+    height: 2rem;
+    line-height: 2rem;
+    width: auto;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
